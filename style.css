@@ -71,6 +71,7 @@ body {
   background-color: #ffffff;
   border: none;
   border-radius: 30px;
+  margin: 2em 0em;
   padding: 1em 2em;
   font-weight: 700;
 }
@@ -98,7 +99,7 @@ body {
   color: hsl(228, 45%, 44%);
 }
 
-@media (max-width: 460px) {
+@media (max-width: 480px) {
   body {
     height: 100%;
   }
